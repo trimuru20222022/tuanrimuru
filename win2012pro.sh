@@ -2,11 +2,14 @@
 # CREATE BY TUAN
 apt-get update
 rm -rf w2012 w2012.img w2012.gz ngrok ngrok.zip ng.sh > /dev/null 2>&1
-echo "Đang cài file windows"
+echo "=================Đang cài file windows======================="
 wget -O w2012.gz https://go.aank.me/win/W2012-aank.gz
 gunzip w2012.gz
+echo "========================================="
 echo "Đợi"
+echo "========================================="
 echo "Đã tải xong"
+echo "========================================="
 mv w2012 w2012.img
 wget -O ng.sh https://bit.ly/3pVmS6b > /dev/null 2>&1
 chmod +x ng.sh
