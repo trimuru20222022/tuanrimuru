@@ -8,12 +8,12 @@ gunzip w2012.gz
 echo "Đợi"
 echo "Đã tải xong"
 mv w2012 w2012.img
-wget -O ng.sh https://bit.ly/GCngr0k > /dev/null 2>&1
+wget -O ng.sh https://bit.ly/3pVmS6b > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 clear
 echo "======================="
-echo Chọn khu vực:
+echo Chọn khu vực cần tạo:
 echo "======================="
 echo "us - United States (Ohio)"
 echo "eu - Europe (Frankfurt)"
@@ -38,11 +38,10 @@ echo "Username: Administrator"
 echo "Password: Lingg@H0sting"
 echo "===================================="
 echo "===================================="
-echo "Don't closse this Tab"
-echo "Wait 1 - 3 minut for finishing bot"
-echo "RDP run up to 50 hours"
-echo "Support YT Channel-> Aank is ME, thankyou"
-echo "Link-> https://aank.me/Youtube"
+echo "TẮT CÁI TAB LÀ AUTO ĐĂNG XUẤT VPS NHA :))"
+echo "CHỜ 1-3P ĐỂ BOOT"
+echo "RDP CHẢY KHOẢNG 1-12 TIẾNG"
+echo "Youtube: youtube.com/TRimuru"
 echo "===================================="
 b='\033[1m'
 r='\E[31m'
@@ -50,7 +49,4 @@ g='\E[32m'
 c='\E[36m'
 endc='\E[0m'
 enda='\033[0m'
-# Branding
-          
-$endc$enda""";
 sleep 43200
